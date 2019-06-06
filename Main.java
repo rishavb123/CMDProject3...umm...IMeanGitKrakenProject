@@ -3,6 +3,12 @@
 I learned that lamda functions are basically just JS arrow functions.
 In addition, I learned that in order to use a lamda function you need an interface
 Finally, I learned that printf lets you round a flout when you use %f
+// Rishav's comment
+/*
+I learned that lambda functions are JS arrow functions with a - instead of a =
+I learned that Git Kraken has a feature that it automatically turns on the fan of my computer while opening
+I also learned that when you clone from a tinyurl git will not recognize the remote as the correct remote but it will still connect to the correct remote
+I also learned that you can truncate floats using %.3f to only show 3 decimal points
 */
 
 public class Main {
